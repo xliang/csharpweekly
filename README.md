@@ -1,5 +1,5 @@
 # CSharp Favorite Weekly
 
-## 1
+## Week 1
 
-* Test
+* [CSharp Exception Handling Best Practices](https://blog.elmah.io/csharp-exception-handling-best-practices/)
