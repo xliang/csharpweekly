@@ -9,6 +9,9 @@
 * [Guidelines to improve your software design skills with .NET (Part I)](https://kevinavignon.com/2020/12/23/guidelines-to-improve-your-software-design-skills-with-net-part-i/?utm_source=csharpdigest&utm_medium=web&utm_campaign=343)
 * [.NET - My Workflow pattern](https://codyanhorn.tech/blog/2021/02/21/DotNet-My-Workflow-Pattern.html)
 
+### .NET Performance
+* [Performance Profiling - Introduction](https://www.poppastring.com/blog/performance-profiling-introduction)
+
 ### C# General
 
 * [C# Coding Guidelines & Practices](https://github.com/justinamiller/DotNet-Coding-Guidelines?utm_source=csharpdigest&utm_medium=web&utm_campaign=351)
@@ -29,17 +32,18 @@
 * [Asynchronous Messaging, Part 1: Basic Distributed Architecture](https://blog.stephencleary.com/2021/01/asynchronous-messaging-1-basic-distributed-architecture.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=345)
 * [An Introduction to Channels in C#](https://jeremybytes.blogspot.com/2021/02/an-introduction-to-channels-in-c.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=350)
 * [What's the Difference between Channel and ConcurrentQueue in C#?](https://jeremybytes.blogspot.com/2021/02/whats-difference-between-channel-and.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=351)
-
+* [Common async pitfalls](https://jamiemagee.co.uk/blog/common-async-pitfalls-part-one/?utm_source=csharpdigest&utm_medium=web&utm_campaign=339)
 
 ### Tools 
 
 * [Load/stress testing .NET apps with Apache JMeter](https://www.red-gate.com/simple-talk/dotnet/software-testing/load-stress-testing-net-apps-with-apache-jmeter/)
 * [Windows Dev Tools: WSL, Terminal, Package Manager, and more](https://channel9.msdn.com/Shows/Tabs-vs-Spaces/Windows-Dev-Tools-WSL-Terminal-Package-Manager-and-more?WT.mc_id=channel9-twitter-cda)
-
+* [Cake v1.0.0 release](https://cakebuild.net/blog/2021/02/cake-v1.0.0-released?utm_content=156947112&utm_medium=social&utm_source=twitter&hss_channel=tw-2384354214)
 
 ### Library/Framework
 
-* [Build your own .NET CPU profiler in C#](https://medium.com/criteo-engineering/build-your-own-net-cpu-profiler-in-c-9bf9ebb827de)
+* [Build your own .NET CPU profiler in C#](https://medium.com/criteo-engineering/build-your-own-net-cpu-profiler-in-c-9bf9ebb827de) 
+* [The fastest CSV parser in .NET](https://www.joelverhagen.com/blog/2020/12/fastest-net-csv-parsers?utm_source=csharpdigest&utm_medium=web&utm_campaign=341)
 * [Warden.NET](https://github.com/RainwayApp/warden?utm_source=csharpdigest&utm_medium=web&utm_campaign=350)
    
    > Warden.NET is a simple to use library for managing processes and their states.
