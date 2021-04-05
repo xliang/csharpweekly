@@ -1,2 +1,3 @@
-# csharpweekly
-.NET C# Weekly Favorite Articles/Blogs
+# CSharp Favorite Weekly
+
+##1
