@@ -1,5 +1,21 @@
 # CSharp Favorite Weekly
 
+## Week 2
+
+### Application Design 
+
+* [Architecting .NET Desktop and Mobile applications](https://www.dotnetcurry.com/patterns-practices/desktop-mobile-application-architecture?utm_source=csharpdigest&utm_medium=web&utm_campaign=333)
+
+### Performance 
+
+* [6 Best Practices to Keep a .NET Application’s Memory Healthy](https://michaelscodingspot.com/application-memory-health/?utm_source=csharpdigest&utm_medium=web&utm_campaign=332)
+* [Finding C# Memory Leak](https://timdeschryver.dev/blog/finding-that-csharp-memory-leak)
+* [.NET PERFORMANCE OPTIMISATIONS DON’T HAVE TO BE COMPLEX](https://www.stevejgordon.co.uk/dotnet-performance-optimisations-dont-have-to-be-complex?utm_source=csharpdigest&utm_medium=web&utm_campaign=330)
+
+### Concurrency 
+
+* [Use System.IO.Pipelines and System.Threading.Channels APIs to Boost Performance](https://itnext.io/use-system-io-pipelines-and-system-threading-channels-apis-to-boost-performance-832d7ab7c719)
+
 ## Week 1
 
 ### Application Design
