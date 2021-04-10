@@ -5,16 +5,31 @@
 ### Application Design 
 
 * [Architecting .NET Desktop and Mobile applications](https://www.dotnetcurry.com/patterns-practices/desktop-mobile-application-architecture?utm_source=csharpdigest&utm_medium=web&utm_campaign=333)
+* [Building the Future of Our Desktop Apps](https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/)
 
 ### Performance 
 
 * [6 Best Practices to Keep a .NET Application’s Memory Healthy](https://michaelscodingspot.com/application-memory-health/?utm_source=csharpdigest&utm_medium=web&utm_campaign=332)
 * [Finding C# Memory Leak](https://timdeschryver.dev/blog/finding-that-csharp-memory-leak)
 * [.NET PERFORMANCE OPTIMISATIONS DON’T HAVE TO BE COMPLEX](https://www.stevejgordon.co.uk/dotnet-performance-optimisations-dont-have-to-be-complex?utm_source=csharpdigest&utm_medium=web&utm_campaign=330)
+* [.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md?utm_source=csharpdigest&utm_medium=web&utm_campaign=328#When-to-worry-about-GC)
+* [Performance best practices in C#](https://kevingosse.medium.com/performance-best-practices-in-c-b85a47bdd93a)
+* [Demystifying Memory Profilers in C# .NET Part 1: The Principles](https://michaelscodingspot.com/memory-profilers-principles/?utm_source=csharpdigest&utm_medium=web&utm_campaign=308)
+* [Work flow of diagnosing memory performance issues](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-1/?utm_source=csharpdigest&utm_medium=web&utm_campaign=307)
 
 ### Concurrency 
 
 * [Use System.IO.Pipelines and System.Threading.Channels APIs to Boost Performance](https://itnext.io/use-system-io-pipelines-and-system-threading-channels-apis-to-boost-performance-832d7ab7c719)
+* [Producer/consumer pipelines with System.Threading.Channels](https://blog.maartenballiauw.be/post/2020/08/26/producer-consumer-pipelines-with-system-threading-channels.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=326)
+* [Evaluating “ReadLine using System.IO.Pipelines” Performance in C#](https://medium.com/@joni2nja/evaluating-readline-using-system-io-pipelines-performance-in-c-69e9ed658920)
+* [Asynchronous Method Without async in C#](https://drakelambert.dev/2020/07/Asynchronous-Method-Without-async-in-C%23?utm_source=csharpdigest&utm_medium=web&utm_campaign=320)
+* [Data Processing Pipelines with TPL Dataflow in C# .NET Core](https://blog.wedport.co.uk/2020/06/22/data-processing-pipelines-with-tpl-dataflow-in-c-net-core/?utm_source=csharpdigest&utm_medium=web&utm_campaign=319)
+* [await false & await true](https://tooslowexception.com/await-false-await-true/?utm_source=csharpdigest&utm_medium=web&utm_campaign=315)
+* [.NET async/await in a single picture](https://tooslowexception.com/net-asyncawait-in-a-single-picture/?utm_source=csharpdigest&utm_medium=web&utm_campaign=313)
+* [7 tips for converting C# code to async/await](https://jamiemagee.co.uk/blog/7-tips-for-converting-csharp-code-to-async-await/?utm_source=csharpdigest&utm_medium=web&utm_campaign=305)
+* [NoAlloq : LINQ for Span<T>](https://github.com/VictorNicollet/NoAlloq?utm_source=csharpdigest&utm_medium=web&utm_campaign=304)
+* [The design and implementation of a better ThreadLocal<T>](https://ayende.com/blog/189793-A/the-design-and-implementation-of-a-better-threadlocal-t?utm_source=csharpdigest&utm_medium=web&utm_campaign=301)
+* [C# 8 asynchronous streams](https://developers.redhat.com/blog/2020/02/24/c-8-asynchronous-streams/?utm_source=csharpdigest&utm_medium=web&utm_campaign=300)
 
 ## Week 1
 
