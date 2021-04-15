@@ -30,6 +30,8 @@
 * [NoAlloq : LINQ for Span<T>](https://github.com/VictorNicollet/NoAlloq?utm_source=csharpdigest&utm_medium=web&utm_campaign=304)
 * [The design and implementation of a better ThreadLocal<T>](https://ayende.com/blog/189793-A/the-design-and-implementation-of-a-better-threadlocal-t?utm_source=csharpdigest&utm_medium=web&utm_campaign=301)
 * [C# 8 asynchronous streams](https://developers.redhat.com/blog/2020/02/24/c-8-asynchronous-streams/?utm_source=csharpdigest&utm_medium=web&utm_campaign=300)
+* [Nuget - AsyncEnumerator](https://www.nuget.org/packages/AsyncEnumerator/1.1.0)
+  > Introduce IAsyncEnumerable, IAsyncEnumerator, ForEachAsync() and ParallelForEachAsync()
 
 ## Week 1
 
