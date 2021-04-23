@@ -1,5 +1,17 @@
 # CSharp Favorite Weekly
 
+## Week 3
+
+## Concurrency 
+
+* [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/?utm_source=csharpdigest&utm_medium=web&utm_campaign=290)
+
+
+## Performance
+
+* [Optimizing garbage collection in a high load .NET service](https://medium.com/swlh/optimizing-garbage-collection-in-a-high-load-net-web-service-3bb620b444a7)
+* [Memory Leak C#](https://codewithshadman.com/memory-leak-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=292)
+
 ## Week 2
 
 ### Application Design 
