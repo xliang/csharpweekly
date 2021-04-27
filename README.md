@@ -2,15 +2,34 @@
 
 ## Week 3
 
+## Application Design
+
+* [Logging in C# .NET Modern-day Practices: The Complete Guide](https://michaelscodingspot.com/logging-in-dotnet/)
+* [Maximizing the power of logs as your application scales](https://michaelscodingspot.com/maximizing-the-power-of-logs-as-your-application-scales/?utm_source=csharpdigest&utm_medium=web&utm_campaign=357)
+* [Cache Implementations in C# .NET](https://michaelscodingspot.com/cache-implementations-in-csharp-net/)
+* [Processing Pipelines Series](https://jack-vanlightly.com/blog/2018/4/19/processing-pipelines-series-reactive-extensions-rxnet)
+* [Process your list in parallel to make it faster in .NET](https://timdeschryver.dev/blog/process-your-list-in-parallel-to-make-it-faster-in-dotnet)
+
 ## Concurrency 
 
+* [AN INTRODUCTION TO SYSTEM.THREADING.CHANNELS](https://www.stevejgordon.co.uk/an-introduction-to-system-threading-channels?utm_source=csharpdigest&utm_medium=web&utm_campaign=281)
 * [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/?utm_source=csharpdigest&utm_medium=web&utm_campaign=290)
-
+* [ConfigureAwait FAQ](https://devblogs.microsoft.com/dotnet/configureawait-faq/?utm_source=csharpdigest&utm_medium=web&utm_campaign=289) 
+* [C# Channels - Async Data Pipelines](https://deniskyashif.com/2020/01/07/csharp-channels-part-3/?utm_source=csharpdigest&utm_medium=web&utm_campaign=293)
 
 ## Performance
 
+* [INTRODUCTION TO BENCHMARKING C# CODE WITH BENCHMARK .NET](https://www.stevejgordon.co.uk/introduction-to-benchmarking-csharp-code-with-benchmark-dot-net)
+* [HIGH-PERFORMANCE LOGGING IN .NET CORE](https://www.stevejgordon.co.uk/high-performance-logging-in-net-core?utm_source=csharpdigest&utm_medium=web&utm_campaign=287)
 * [Optimizing garbage collection in a high load .NET service](https://medium.com/swlh/optimizing-garbage-collection-in-a-high-load-net-web-service-3bb620b444a7)
 * [Memory Leak C#](https://codewithshadman.com/memory-leak-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=292)
+* [Exploring Spans and Pipelines](https://timiskhakov.github.io/posts/exploring-spans-and-pipelines?utm_source=csharpdigest&utm_medium=web&utm_campaign=283)
+
+## Windows
+
+* [Win32 Service Gotcha: Recovery Actions](https://blog.stephencleary.com/2020/06/servicebase-gotcha-recovery-actions.html)
+
+
 
 ## Week 2
 
