@@ -16,6 +16,8 @@
 * [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/?utm_source=csharpdigest&utm_medium=web&utm_campaign=290)
 * [ConfigureAwait FAQ](https://devblogs.microsoft.com/dotnet/configureawait-faq/?utm_source=csharpdigest&utm_medium=web&utm_campaign=289) 
 * [C# Channels - Async Data Pipelines](https://deniskyashif.com/2020/01/07/csharp-channels-part-3/?utm_source=csharpdigest&utm_medium=web&utm_campaign=293)
+* [Event-driven .NET: Concurrent Producer/Consumer using BlockingCollection](https://blog.vincentcos.tel/replacing-blockingcollection-with-bufferblock/)
+* [BlockingCollection<T> Demonstration in Producer-Consumer Scenarios](https://channel9.msdn.com/Blogs/philpenn/BlockingCollectionT-Demonstration-in-Producer-Consumer-Scenarios)
 
 ## Performance
 
