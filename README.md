@@ -1,4 +1,4 @@
-# CSharp Favorite Weekly
+# .NET/CSharp Weekly Read
 
 ## Week 3
 
