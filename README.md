@@ -4,26 +4,26 @@
 
 ## Application Design 
 
-*[Full Modular Monolith application with Domain-Driven Design approach](https://github.com/kgrzybek/modular-monolith-with-ddd?utm_source=csharpdigest&utm_medium=web&utm_campaign=274)
-*[Auto Refreshing Cache in .NET](https://underscorehao.net/2019/07/auto-refreshing-cache-in-dotnet/?utm_source=csharpdigest&utm_medium=web&utm_campaign=268)
+* [Full Modular Monolith application with Domain-Driven Design approach](https://github.com/kgrzybek/modular-monolith-with-ddd?utm_source=csharpdigest&utm_medium=web&utm_campaign=274)
+* [Auto Refreshing Cache in .NET](https://underscorehao.net/2019/07/auto-refreshing-cache-in-dotnet/?utm_source=csharpdigest&utm_medium=web&utm_campaign=268)
 
 ## Performance
 
-*[System.IO.Pipelines — a little-known tool for lovers of high performance](https://habr.com/en/post/466137/)
-*[Experimenting with System.IO.Pipelines for high performance audio](https://markheath.net/post/system-io-pipelines-high-perf-audio?utm_source=csharpdigest&utm_medium=web&utm_campaign=270)
-*[Prefer ValueTask to Task, always; and don't await twice](https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=274)
-*[.NET Memory Management posters](http://tooslowexception.com/net-memory-management-posters/?utm_source=csharpdigest&utm_medium=web&utm_campaign=272)
-*[OutOfMemory – a nerdy card game for developers!](http://tooslowexception.com/outofmemory-a-nerdy-card-game-for-developers/?utm_source=csharpdigest&utm_medium=web&utm_campaign=257)
-*[Some performance tricks with .NET strings](https://www.meziantou.net/some-performance-tricks-with-dotnet-strings.htm)
-*[Memory and Span pt.2](https://habr.com/en/company/clrium/blog/443976/)
-*[Memory<T> and Span<T> usage guidelines](https://docs.microsoft.com/en-us/dotnet/standard/memory-and-spans/memory-t-usage-guidelines?utm_source=csharpdigest&utm_medium=web&utm_campaign=252)
-*[AN INTRODUCTION TO OPTIMISING CODE USING SPAN<T>](https://www.stevejgordon.co.uk/an-introduction-to-optimising-code-using-span-t?utm_source=csharpdigest&utm_medium=web&utm_campaign=248)
+* [System.IO.Pipelines — a little-known tool for lovers of high performance](https://habr.com/en/post/466137/)
+* [Experimenting with System.IO.Pipelines for high performance audio](https://markheath.net/post/system-io-pipelines-high-perf-audio?utm_source=csharpdigest&utm_medium=web&utm_campaign=270)
+* [Prefer ValueTask to Task, always; and don't await twice](https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=274)
+* [.NET Memory Management posters](http://tooslowexception.com/net-memory-management-posters/?utm_source=csharpdigest&utm_medium=web&utm_campaign=272)
+* [OutOfMemory – a nerdy card game for developers!](http://tooslowexception.com/outofmemory-a-nerdy-card-game-for-developers/?utm_source=csharpdigest&utm_medium=web&utm_campaign=257)
+* [Some performance tricks with .NET strings](https://www.meziantou.net/some-performance-tricks-with-dotnet-strings.htm)
+* [Memory and Span pt.2](https://habr.com/en/company/clrium/blog/443976/)
+* [Memory<T> and Span<T> usage guidelines](https://docs.microsoft.com/en-us/dotnet/standard/memory-and-spans/memory-t-usage-guidelines?utm_source=csharpdigest&utm_medium=web&utm_campaign=252)
+* [AN INTRODUCTION TO OPTIMISING CODE USING SPAN<T>](https://www.stevejgordon.co.uk/an-introduction-to-optimising-code-using-span-t?utm_source=csharpdigest&utm_medium=web&utm_campaign=248)
 
 ## Concurrency
 
-*[.NET: Tools for working with multi-threading and asynchrony](https://habr.com/en/post/455252/)
-*[C# Async Tips & Tricks](https://cpratt.co/async-tips-tricks/?utm_source=csharpdigest&utm_medium=web&utm_campaign=251)
-*[Multithreading made easy – Parallel ForEach](https://chrisstclair.co.uk/multithreading-made-easy-parallel-foreach/?utm_source=csharpdigest&utm_medium=web&utm_campaign=247)
+* [.NET: Tools for working with multi-threading and asynchrony](https://habr.com/en/post/455252/)
+* [C# Async Tips & Tricks](https://cpratt.co/async-tips-tricks/?utm_source=csharpdigest&utm_medium=web&utm_campaign=251)
+* [Multithreading made easy – Parallel ForEach](https://chrisstclair.co.uk/multithreading-made-easy-parallel-foreach/?utm_source=csharpdigest&utm_medium=web&utm_campaign=247)
 
 
 ## Week 3
