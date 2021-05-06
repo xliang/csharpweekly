@@ -17,11 +17,13 @@
 *[Some performance tricks with .NET strings](https://www.meziantou.net/some-performance-tricks-with-dotnet-strings.htm)
 *[Memory and Span pt.2](https://habr.com/en/company/clrium/blog/443976/)
 *[Memory<T> and Span<T> usage guidelines](https://docs.microsoft.com/en-us/dotnet/standard/memory-and-spans/memory-t-usage-guidelines?utm_source=csharpdigest&utm_medium=web&utm_campaign=252)
+*[AN INTRODUCTION TO OPTIMISING CODE USING SPAN<T>](https://www.stevejgordon.co.uk/an-introduction-to-optimising-code-using-span-t?utm_source=csharpdigest&utm_medium=web&utm_campaign=248)
 
 ## Concurrency
 
 *[.NET: Tools for working with multi-threading and asynchrony](https://habr.com/en/post/455252/)
 *[C# Async Tips & Tricks](https://cpratt.co/async-tips-tricks/?utm_source=csharpdigest&utm_medium=web&utm_campaign=251)
+*[Multithreading made easy – Parallel ForEach](https://chrisstclair.co.uk/multithreading-made-easy-parallel-foreach/?utm_source=csharpdigest&utm_medium=web&utm_campaign=247)
 
 
 ## Week 3
