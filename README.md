@@ -1,5 +1,43 @@
 # Great .NET/CSharp Read Weekly
 
+## Week 5
+
+## Application Design
+
+* [A modular monolith architecture for .NET applications](https://www.thereformedprogrammer.net/evolving-modular-monoliths-1-an-architecture-for-net/?utm_source=csharpdigest&utm_medium=web&utm_campaign=363)
+
+## Concurrency 
+
+* [Asynchronous Programming in C# - Part 1](https://aaronbos.dev/posts/async-csharp-pt1)
+* [Making the calculator thread-safe](https://andrewlock.net/creating-a-simple-moving-average-calculator-in-csharp-2-making-the-calculator-thread-safe/?utm_source=csharpdigest&utm_medium=web&utm_campaign=363)
+* [Experimenting with System.IO.Pipelines for high performance audio](https://markheath.net/post/system-io-pipelines-high-perf-audio?utm_source=csharpdigest&utm_medium=web&utm_campaign=270)
+* [C# Deadlocks in Depth – Part 1](https://michaelscodingspot.com/c-deadlocks-in-depth-part-1/)
+* [C# Deadlocks in Depth – Part 2](https://michaelscodingspot.com/c-deadlocks-in-depth-part-2/)
+* [Async Streams in C# 8](https://www.infoq.com/articles/Async-Streams/?utm_source=csharpdigest&utm_medium=web&utm_campaign=223)
+* [C# Sharding and Multithreading - Deep Dive](https://www.dotnetcurry.com/csharp/1457/sharding-multithreading-performance?utm_source=csharpdigest&utm_medium=web&utm_campaign=222)
+* [Pipelines - a guided tour of the new IO API in .NET, part 3](https://blog.marcgravell.com/2018/07/pipe-dreams-part-3.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=218)
+* [System.IO.Pipelines: High performance IO in .NET](https://devblogs.microsoft.com/dotnet/system-io-pipelines-high-performance-io-in-net/?utm_source=csharpdigest&utm_medium=web&utm_campaign=215)
+
+## Performance 
+
+* [Span<T>](https://github.com/dotnet/corefxlab/blob/archive/docs/specs/span.md)
+* [8 Techniques to Avoid GC Pressure and Improve Performance in C# .NET](https://michaelscodingspot.com/avoid-gc-pressure/?utm_source=csharpdigest&utm_medium=web&utm_campaign=261)
+* [Some performance tricks with .NET strings](https://www.meziantou.net/some-performance-tricks-with-dotnet-strings.htm)
+* [Memory and Span pt.2](https://habr.com/en/company/clrium/blog/443976/)
+* [Memory<T> and Span<T> usage guidelines](https://habr.com/en/company/clrium/blog/443976/)
+* [AN INTRODUCTION TO OPTIMISING CODE USING SPAN<T>](https://www.stevejgordon.co.uk/an-introduction-to-optimising-code-using-span-t?utm_source=csharpdigest&utm_medium=web&utm_campaign=248)
+* [Hunting .NET memory leaks with Windbg](https://snede.net/hunting-net-memory-leaks-with-windbg/?utm_source=csharpdigest&utm_medium=web&utm_campaign=246)
+* [Performance Tuning for .NET Core](https://reubenbond.github.io/posts/dotnet-perf-tuning?utm_source=csharpdigest&utm_medium=web&utm_campaign=242)
+* [Stopping Garbage Collection in .NET Core 3.0 (part I)](https://lucabolognese.wordpress.com/2019/01/14/stopping-garbage-collection-in-net-core-3-0-part-i/?utm_source=csharpdigest&utm_medium=web&utm_campaign=242)
+* [Garbage collection: marking, collection and heaps compaction](https://www.codejourney.net/2018/08/net-internals-05-garbage-collection-marking-collection-and-heaps-compaction/?utm_source=csharpdigest&utm_medium=web&utm_campaign=221)
+* [Learn Span<T> by Implementing a high-performance CSV Parser](https://dfederm.com/learn-span-by-implementing-a-high-performance-csv-parser/?utm_source=csharpdigest&utm_medium=web&utm_campaign=217)
+* [I knew the Span<T> stuff was supposed to be fast, but this is ridiculous!
+](https://gist.github.com/Zhentar/07b92a52c619641ab61aab50b1e5ec91?utm_source=csharpdigest&utm_medium=web&utm_campaign=215)
+* [Introducing .NET Core 2.1 Flagship Types: Span <T> and Memory <T>](https://www.codemag.com/Article/1807051/Introducing-.NET-Core-2.1-Flagship-Types-Span-T-and-Memory-T?utm_source=csharpdigest&utm_medium=web&utm_campaign=213)
+* [Benchmarking Span<T> Performance](https://bytelanguage.net/2018/03/16/benchmarking-spant-performance/?utm_source=csharpdigest&utm_medium=web&utm_campaign=201)
+* [How to use Span<T> and Memory<T>](https://antao-almada.medium.com/how-to-use-span-t-and-memory-t-c0b126aae652)
+* [String is Evil](https://medium.com/@indy_singh/strings-are-evil-a803d05e5ce3)
+
 ## Week 4
 
 ## Application Design 
