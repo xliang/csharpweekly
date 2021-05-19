@@ -31,8 +31,7 @@
 * [Stopping Garbage Collection in .NET Core 3.0 (part I)](https://lucabolognese.wordpress.com/2019/01/14/stopping-garbage-collection-in-net-core-3-0-part-i/?utm_source=csharpdigest&utm_medium=web&utm_campaign=242)
 * [Garbage collection: marking, collection and heaps compaction](https://www.codejourney.net/2018/08/net-internals-05-garbage-collection-marking-collection-and-heaps-compaction/?utm_source=csharpdigest&utm_medium=web&utm_campaign=221)
 * [Learn Span<T> by Implementing a high-performance CSV Parser](https://dfederm.com/learn-span-by-implementing-a-high-performance-csv-parser/?utm_source=csharpdigest&utm_medium=web&utm_campaign=217)
-* [I knew the Span<T> stuff was supposed to be fast, but this is ridiculous!
-](https://gist.github.com/Zhentar/07b92a52c619641ab61aab50b1e5ec91?utm_source=csharpdigest&utm_medium=web&utm_campaign=215)
+* [I knew the Span<T> stuff was supposed to be fast, but this is ridiculous!](https://gist.github.com/Zhentar/07b92a52c619641ab61aab50b1e5ec91?utm_source=csharpdigest&utm_medium=web&utm_campaign=215)
 * [Introducing .NET Core 2.1 Flagship Types: Span <T> and Memory <T>](https://www.codemag.com/Article/1807051/Introducing-.NET-Core-2.1-Flagship-Types-Span-T-and-Memory-T?utm_source=csharpdigest&utm_medium=web&utm_campaign=213)
 * [Benchmarking Span<T> Performance](https://bytelanguage.net/2018/03/16/benchmarking-spant-performance/?utm_source=csharpdigest&utm_medium=web&utm_campaign=201)
 * [How to use Span<T> and Memory<T>](https://antao-almada.medium.com/how-to-use-span-t-and-memory-t-c0b126aae652)
