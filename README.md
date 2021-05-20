@@ -17,6 +17,8 @@
 * [C# Sharding and Multithreading - Deep Dive](https://www.dotnetcurry.com/csharp/1457/sharding-multithreading-performance?utm_source=csharpdigest&utm_medium=web&utm_campaign=222)
 * [Pipelines - a guided tour of the new IO API in .NET, part 3](https://blog.marcgravell.com/2018/07/pipe-dreams-part-3.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=218)
 * [System.IO.Pipelines: High performance IO in .NET](https://devblogs.microsoft.com/dotnet/system-io-pipelines-high-performance-io-in-net/?utm_source=csharpdigest&utm_medium=web&utm_campaign=215)
+* [https://www.nimaara.com/practical-parallelization-with-map-reduce-in-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=162](https://www.nimaara.com/practical-parallelization-with-map-reduce-in-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=162)
+
 
 ## Performance 
 
@@ -36,6 +38,10 @@
 * [Benchmarking Span<T> Performance](https://bytelanguage.net/2018/03/16/benchmarking-spant-performance/?utm_source=csharpdigest&utm_medium=web&utm_campaign=201)
 * [How to use Span<T> and Memory<T>](https://antao-almada.medium.com/how-to-use-span-t-and-memory-t-c0b126aae652)
 * [String is Evil](https://medium.com/@indy_singh/strings-are-evil-a803d05e5ce3)
+* [Pooling large arrays with ArrayPool](https://adamsitnik.com/Array-Pool/?utm_source=csharpdigest&utm_medium=web&utm_campaign=160)
+* [High-performance .NET by example: Filtering bot traffic](https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/?utm_source=csharpdigest&utm_medium=web&utm_campaign=152)
+* [Spans and ref part 2 : spans](https://blog.marcgravell.com/2017/04/spans-and-ref-part-2-spans.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=152)
+* [Precise Computation of CLR Object Size](https://codingsight.com/precise-computation-of-clr-object-size/?utm_source=csharpdigest&utm_medium=web&utm_campaign=151)
 
 ## Week 4
 
