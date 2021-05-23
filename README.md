@@ -18,7 +18,8 @@
 * [Pipelines - a guided tour of the new IO API in .NET, part 3](https://blog.marcgravell.com/2018/07/pipe-dreams-part-3.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=218)
 * [System.IO.Pipelines: High performance IO in .NET](https://devblogs.microsoft.com/dotnet/system-io-pipelines-high-performance-io-in-net/?utm_source=csharpdigest&utm_medium=web&utm_campaign=215)
 * [https://www.nimaara.com/practical-parallelization-with-map-reduce-in-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=162](https://www.nimaara.com/practical-parallelization-with-map-reduce-in-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=162)
-
+* [async-enumerable](https://github.com/elasticbytes/async-enumerable/blob/master/src/AsyncEnumeratorAdapter.cs)
+* [Using The New IAsyncEnumerable Interface In .NET Core 3](https://www.c-sharpcorner.com/article/using-the-new-iasyncenumerable-interface-in-net-core-3/)
 
 ## Performance 
 
@@ -42,6 +43,8 @@
 * [High-performance .NET by example: Filtering bot traffic](https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/?utm_source=csharpdigest&utm_medium=web&utm_campaign=152)
 * [Spans and ref part 2 : spans](https://blog.marcgravell.com/2017/04/spans-and-ref-part-2-spans.html?utm_source=csharpdigest&utm_medium=web&utm_campaign=152)
 * [Precise Computation of CLR Object Size](https://codingsight.com/precise-computation-of-clr-object-size/?utm_source=csharpdigest&utm_medium=web&utm_campaign=151)
+* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+
 
 ## Week 4
 
