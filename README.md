@@ -1,5 +1,21 @@
 # Great .NET/CSharp Read Weekly
 
+## Week 6
+
+## Performance 
+
+* [Performance Booster with System.IO.Pipelines in C#](https://goldytech.wordpress.com/2021/05/31/performance-booster-with-system-io-pipelines-in-c/?utm_source=csharpdigest&utm_medium=rss&utm_campaign=367)
+
+## C#
+
+* [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/?utm_source=csharpdigest&utm_medium=rss&utm_campaign=367)
+
+## Concurrency 
+
+* [Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
+* [Asynchronous C#: Making a simple Cup of Tea](https://dev.to/paulafahmy/asynchronous-c-making-a-simple-cup-of-tea-13i?utm_source=csharpdigest&utm_medium=rss&utm_campaign=366)
+* [Async Debugging Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-2)
+
 ## Week 5
 
 ## Application Design
