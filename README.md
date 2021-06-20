@@ -10,11 +10,42 @@
 
 * [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/?utm_source=csharpdigest&utm_medium=rss&utm_campaign=367)
 
+* [Working With .NET 6's PriorityQueue](https://khalidabuhakmeh.com/working-with-dotnet-six-priorityqueue)
+
 ## Concurrency 
 
 * [Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
 * [Asynchronous C#: Making a simple Cup of Tea](https://dev.to/paulafahmy/asynchronous-c-making-a-simple-cup-of-tea-13i?utm_source=csharpdigest&utm_medium=rss&utm_campaign=366)
 * [Async Debugging Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-2)
+* [Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
+* [Async Guide](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+* [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
+
+
+## Application Design 
+
+* [Using Dapper with ASP.NET Core Web API](https://code-maze.com/using-dapper-with-asp-net-core-web-api/)
+* [Nulls in Value Objects](https://enterprisecraftsmanship.com/posts/nulls-in-value-objects/)
+* [Competing Consumers Pattern for Scalability](https://codeopinion.com/competing-consumers-pattern-for-scalability/)
+
+## Windows 
+
+* [Deep dive: Logging on to Windows](https://techcommunity.microsoft.com/t5/itops-talk-blog/deep-dive-logging-on-to-windows/ba-p/2420705?WT.mc_id=DOP-MVP-4025064)
+
+## Software Engineering 
+
+* [Practical vs. Strict Semantic Versioning](https://aaronstannard.com/oss-semver/)
+* [What makes a good Git commit?](https://www.simplethread.com/what-makes-a-good-git-commit/)
+* [What If Product Owners Reported to Dev Teams?](https://ardalis.com/what-if-product-owners-reported-to-dev-teams/)
+
+## Testing 
+
+* [Get Your WPF Apps Automated With Appium](https://www.telerik.com/blogs/get-your-wpf-apps-automated-appium)
+
+## Tools
+
+* [Increase your .NET Productivity with Visual Studio](https://www.youtube.com/watch?v=Ok-csh6FLL0)
+
 
 ## Week 5
 
