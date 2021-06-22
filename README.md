@@ -20,6 +20,7 @@
 * [Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
 * [Async Guide](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 * [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
+* [Multi-threaded Producer Consumer using .Net Core Channels](https://medium.com/@jaiadityarathore/multi-threaded-producer-consumer-using-net-core-channels-d43bb220e2e7)
 
 
 ## Application Design 
