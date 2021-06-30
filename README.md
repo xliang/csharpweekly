@@ -17,6 +17,7 @@
 * [Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
 * [Asynchronous C#: Making a simple Cup of Tea](https://dev.to/paulafahmy/asynchronous-c-making-a-simple-cup-of-tea-13i?utm_source=csharpdigest&utm_medium=rss&utm_campaign=366)
 * [Async Debugging Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-2)
+* [Async Debugging Part 3](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-3)
 * [Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
 * [Async Guide](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 * [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
@@ -28,6 +29,7 @@
 * [Using Dapper with ASP.NET Core Web API](https://code-maze.com/using-dapper-with-asp-net-core-web-api/)
 * [Nulls in Value Objects](https://enterprisecraftsmanship.com/posts/nulls-in-value-objects/)
 * [Competing Consumers Pattern for Scalability](https://codeopinion.com/competing-consumers-pattern-for-scalability/)
+* [Handling Failures in Message Driven Architecture](https://codeopinion.com/handling-failures-in-message-driven-architecture/)
 
 ## Windows 
 
