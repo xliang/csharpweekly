@@ -9,7 +9,6 @@
 ## C#
 
 * [Date, Time, and Time Zone Enhancements in .NET 6](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/?utm_source=csharpdigest&utm_medium=rss&utm_campaign=367)
-
 * [Working With .NET 6's PriorityQueue](https://khalidabuhakmeh.com/working-with-dotnet-six-priorityqueue)
 
 ## Concurrency 
@@ -30,6 +29,7 @@
 * [Nulls in Value Objects](https://enterprisecraftsmanship.com/posts/nulls-in-value-objects/)
 * [Competing Consumers Pattern for Scalability](https://codeopinion.com/competing-consumers-pattern-for-scalability/)
 * [Handling Failures in Message Driven Architecture](https://codeopinion.com/handling-failures-in-message-driven-architecture/)
+* [Competing Consumers Pattern for Scalability](https://codeopinion.com/competing-consumers-pattern-for-scalability/?utm_source=csharpdigest&utm_medium=web&utm_campaign=368)
 
 ## Windows 
 
