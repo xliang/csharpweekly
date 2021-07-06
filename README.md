@@ -1,5 +1,22 @@
 # Great .NET/CSharp Read Weekly
 
+## Week 7
+
+## Testing
+
+* [Introduction github action](https://www.telerik.com/blogs/introduction-github-actions)
+* [WinForms UI Test Automation with Appium](https://www.telerik.com/blogs/winforms-ui-test-automation-with-appium)
+
+
+## Concurrency
+
+* [Stop Saving to Disk with C# Asynchronous Streams](http://www.leerichardson.com/2021/07/csharp-asynchronous-streams.html)
+
+## Performance 
+
+* [Performance Booster with System.IO.Pipelines in C#](https://goldytech.wordpress.com/2021/05/31/performance-booster-with-system-io-pipelines-in-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=367)
+* [How to Beat Array Iteration Performance with Parallelism in C# .NET](https://michaelscodingspot.com/array-iteration-vs-parallelism-in-c-net/)
+
 ## Week 6
 
 ## Performance 
