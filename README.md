@@ -11,6 +11,9 @@
 ## Concurrency
 
 * [Stop Saving to Disk with C# Asynchronous Streams](http://www.leerichardson.com/2021/07/csharp-asynchronous-streams.html)
+* [Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
+* [A Study and Toolkit for Asynchronous Programming in C#](http://www.asyncfixer.com/)
+
 
 ## Performance 
 
