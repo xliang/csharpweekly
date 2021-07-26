@@ -1,5 +1,20 @@
 # Great .NET/CSharp Read Weekly
 
+## Week 8
+
+## Code Design 
+
+* [Implementing a Static Builder using Extension Methods in C#](https://ilyana.dev/blog/2021-07-22-builder-static-extension/)
+* [Domain-Driven Refactoring: Long Methods](https://jimmybogard.com/domain-driven-refactoring-long-methods/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GrabBagOfT+%28Jimmy+Bogard%29)
+
+## Performance 
+
+* [Microsoft.IO.RecyclableMemoryStream](https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream?utm_source=csharpdigest&utm_medium=web&utm_campaign=373)
+
+## Concurrency 
+
+* [Work offloading and controlled parallelism](https://ayende.com/blog/194146-A/work-offloading-and-controlled-parallelism?Key=67a22edd-ed24-404e-8067-ff317d9e4341&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29)
+
 ## Week 7
 
 ## Testing
