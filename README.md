@@ -6,14 +6,26 @@
 
 * [Implementing a Static Builder using Extension Methods in C#](https://ilyana.dev/blog/2021-07-22-builder-static-extension/)
 * [Domain-Driven Refactoring: Long Methods](https://jimmybogard.com/domain-driven-refactoring-long-methods/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GrabBagOfT+%28Jimmy+Bogard%29)
+* [Code opinion: performance or clean code?](https://www.code4it.dev/blog/clean-code-vs-performance)
+
+
+## Application Design
+
+* [Responsibility Abdication: The path to create flexible business system](https://ayende.com/blog/194274-B/responsibility-abdication-the-path-to-create-flexible-business-system?Key=f7efcebb-71e0-4050-868b-c8df437cd574)
+* [Architecture foresight: Put a queue on that](https://ayende.com/blog/194305-B/architecture-foresight-put-a-queue-on-that?Key=e4f0fc0d-1f96-4ac0-b465-4bd149f8605c&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29)
+* [Message Driven Architecture to DECOUPLE a Monolith](https://codeopinion.com/message-driven-architecture-to-decouple-a-monolith/)
+* [Domain-Driven Refactoring: Extracting Domain Services](https://jimmybogard.com/domain-driven-refactoring-extracting-domain-services/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GrabBagOfT+%28Jimmy+Bogard%29)
 
 ## Performance 
 
 * [Microsoft.IO.RecyclableMemoryStream](https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream?utm_source=csharpdigest&utm_medium=web&utm_campaign=373)
+* [The case of the pauses, the fault and the GC](https://ayende.com/blog/194177-A/postmortem-the-case-of-the-pauses-the-fault-and-the-gc?utm_source=csharpdigest&utm_medium=rss&utm_campaign=372)
 
 ## Concurrency 
 
 * [Work offloading and controlled parallelism](https://ayende.com/blog/194146-A/work-offloading-and-controlled-parallelism?Key=67a22edd-ed24-404e-8067-ff317d9e4341&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29)
+* [C# Language Highlights: ValueTask](https://channel9.msdn.com/Shows/On-NET/C-Language-Highlights-ValueTask)
+* [System.Threading.Tasks.Task isn’t an execution unit](https://ayende.com/blog/194337-B/system-threading-tasks-task-isnt-an-execution-unit?Key=885fdaff-cc07-4ab1-adad-c278fe7de264&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29)
 
 ## Week 7
 
