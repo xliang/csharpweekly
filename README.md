@@ -1,5 +1,13 @@
 # Great .NET/CSharp Read Weekly
 
+## Week 9
+
+## Applicaiton Design 
+
+* [Domain-Driven Refactoring: Defactoring and Pushing Behavior Down](https://jimmybogard.com/domain-driven-refactoring-defactoring-and-pushing-behavior-down/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GrabBagOfT+%28Jimmy+Bogard%29)
+* [Synchronous vs Messaging: When to use which?](https://codeopinion.com/synchronous-vs-messaging-when-to-use-which/)
+
+
 ## Week 8
 
 ## Code Design 
