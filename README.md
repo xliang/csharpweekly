@@ -1,8 +1,14 @@
 # Great .NET/CSharp Read Weekly
 
+## Week 10 
+
+## Concurrency 
+
+* [Introduction to Async Programming in C#](https://auth0.com/blog/introduction-to-async-programming-in-csharp/?utm_medium=link_placement&utm_source=sponsorship&utm_content=Bonobo%20Press%20C%23%20Newsletter&utm_campaign=devrel&utm_source=csharpdigest&utm_medium=rss&utm_campaign=379)
+
 ## Week 9
 
-## Applicaiton Design 
+## Application Design 
 
 * [Domain-Driven Refactoring: Defactoring and Pushing Behavior Down](https://jimmybogard.com/domain-driven-refactoring-defactoring-and-pushing-behavior-down/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GrabBagOfT+%28Jimmy+Bogard%29)
 * [Synchronous vs Messaging: When to use which?](https://codeopinion.com/synchronous-vs-messaging-when-to-use-which/)
