@@ -2,9 +2,20 @@
 
 ## Week 10 
 
+
+## Application Design 
+
+* [Cloud Applications - Internal Application Architecture with Design Patterns](https://www.dotnetcurry.com/aspnet-core/cloud-apps-architecture-design-patterns)
+
 ## Concurrency 
 
 * [Introduction to Async Programming in C#](https://auth0.com/blog/introduction-to-async-programming-in-csharp/?utm_medium=link_placement&utm_source=sponsorship&utm_content=Bonobo%20Press%20C%23%20Newsletter&utm_campaign=devrel&utm_source=csharpdigest&utm_medium=rss&utm_campaign=379)
+* [.NET locking in an Async Method](https://codyanhorn.tech/blog/net-locking-in-an-async-method?utm_source=csharpdigest&utm_medium=rss&utm_campaign=378)
+
+
+## Performance 
+
+* [Diagnosing memory leaking .NET app](https://channel9.msdn.com/Shows/On-NET/Diagnosing-memory-leaks-in-NET-apps?WT.mc_id=DOP-MVP-4025064)
 
 ## Week 9
 
