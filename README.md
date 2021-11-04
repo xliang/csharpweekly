@@ -1,5 +1,23 @@
 # Great .NET/CSharp Read Weekly
 
+## Week 11
+
+## Application Design
+
+* [A pipeline-oriented programming](https://www.slideshare.net/ScottWlaschin/pipeline-oriented-programming)
+## Performance 
+
+* [Performance Architecture](https://ayende.com/blog/194945-A/performance-architecture-talk?Key=7063823b-1f7d-4b33-9bf7-d9837e06085c&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29)
+* [HIDDEN IDISPOSABLE ISSUES IN MICROSOFT .NET](https://dotnettips.wordpress.com/2021/10/06/hidden-idisposable-issues-in-microsoft-net/)
+
+## Concurrency 
+
+* [IAsyncEnumberable with yield in C#](https://code-maze.com/csharp-async-enumerable-yield/)
+
+## Testing 
+
+* [Top Challenges of Automated End-to-End Testing](https://www.telerik.com/blogs/top-challenges-automated-end-to-end-testing)
+
 ## Week 10 
 
 
