@@ -1,10 +1,11 @@
 # Great .NET/CSharp Read Weekly
 
-## Week 11
+# Week 11
 
 ## Application Design
 
 * [A pipeline-oriented programming](https://www.slideshare.net/ScottWlaschin/pipeline-oriented-programming)
+
 ## Performance 
 
 * [Performance Architecture](https://ayende.com/blog/194945-A/performance-architecture-talk?Key=7063823b-1f7d-4b33-9bf7-d9837e06085c&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29)
